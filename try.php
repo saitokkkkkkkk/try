@@ -16,5 +16,4 @@ class MyClass {
 $obj = new MyClass("Hello");
 echo $obj->getProperty(); // "Hello"を出力
 echo "こんちく----は";
-
 ?>
