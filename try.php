@@ -1,7 +1,8 @@
 <?php
 
 class MyClass {
-    public $prop;
+    //
+    private $prop;
 
     public function __construct($value) {
         $this->prop = $value;
